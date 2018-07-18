@@ -7,5 +7,5 @@ setup(name='ys_base',
       author='ys',
       author_email='ys@ys.com',
       license='MIT',
-      packages=['ys_base'],
+      packages=['src'],
       zip_safe=False)
